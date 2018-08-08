@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Ochoa Lab"
-  avatar           : "ochoalab-logo-forCircleFrame.png"
+  avatar           : "profile.jpg" # "ochoalab-logo-forCircleFrame.png"
   bio              : "Research in statistical genetics and computational biology"
   location         : "Duke University"
   employer         :
