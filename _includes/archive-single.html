@@ -62,7 +62,7 @@
 
     <p>
       {% if post.title %}
-      <b>
+      <b class="archive__item-title">
       {% if post.doi %}
       <a href="https://doi.org/{{ post.doi }}">{{ post.title }}</a><br />
       {% else %}
@@ -74,7 +74,7 @@
       {{ post.authors }}<br />
       {% endif %}
       {% if post.journal %}
-      <i>{{ post.journal }}</i>.
+      <i>{{ post.journal }}</i> {{ post.cit }}.
       {% if post.date %}
       {{ post.date | default: "1900-01-01" | date: "%Y-%m-%d"  }}
       {% endif %}
