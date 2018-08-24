@@ -1,3 +1,12 @@
+## 2018-08-24 - First Ochoa Lab commits, cleanup
+
+- Deleted lots of unused files/features (not needed for a lab website)
+  - Won't be using Teaching, CV, Sitemap, Portfolio
+  - Removed example files
+  - Disabled Blog Posts, Talks Map, though I might get back to those
+- Removed unused links from navigation bar and footer
+- In the last month: added my global config info, about page, publications and talks
+
 ## [3.4.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.2)
 
 ### Enhancements
