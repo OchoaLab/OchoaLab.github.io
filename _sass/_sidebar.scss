@@ -74,6 +74,7 @@
   vertical-align: top;
   width: 36px;
   height: 36px;
+  clear: both;
 
   @include breakpoint($large) {
     display: block;
@@ -87,7 +88,7 @@
     float: left;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 15px;
       border: 1px solid $border-color;
     }
   }

@@ -1,0 +1,73 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <div class="people__avatar" style="clear:both">
+      {% if post.avatar %}
+      <img src="{{ post.avatar | prepend: "/images/" | prepend: base_path }}" class="people__avatar" alt="{{ post.name }}">
+      {% else %}
+      <img src="{{ "profile.png" | prepend: "/images/" | prepend: base_path }}" class="people__avatar" alt="{{ post.name }}">
+      {% endif %}
+      
+      <!-- Name is mandatory! -->
+      <h2 class="archive__item-title">{{ post.name }}</h2>
+      {% if post.role %}
+      <h3><i>{{ post.role }}</i></h3>
+      {% endif %}
+      {% if post.description %}
+      <p>{{ post.description }}</p>
+      {% endif %}
+
+      <!-- ICONS -->
+      <p>
+      {% if post.cv %}
+      <a href="{{ post.cv }}">
+	<i class="ai ai-fw ai-lg ai-cv"></i>
+      </a>
+      {% endif %}
+      {% if post.email %}
+      <a href="mailto:{{ post.email }}">
+	<i class="fa fa-fw fa-lg fa-envelope"></i>
+      </a>
+      {% endif %}
+      {% if post.twitter %}
+      <a href="https://twitter.com/{{ post.twitter }}">
+	<i class="fa fa-fw fa-lg fa-twitter"></i>
+      </a>
+      {% endif %}
+      {% if post.linkedin %}
+      <a href="https://www.linkedin.com/in/{{ post.linkedin }}">
+	<i class="fa fa-fw fa-lg fa-linkedin"></i>
+      </a>
+      {% endif %}
+      {% if post.github %}
+      <a href="https://github.com/{{ post.github }}">
+	<i class="fa fa-fw fa-lg fa-github"></i>
+      </a>
+      {% endif %}
+      {% if post.googlescholar %}
+      <a href="https://scholar.google.com/citations?user={{ post.googlescholar }}&hl=en">
+	<i class="ai ai-fw ai-lg ai-google-scholar"></i>
+      </a>
+      {% endif %}
+      {% if post.orcid %}
+      <a href="http://orcid.org/{{ post.orcid }}">
+	<i class="ai ai-fw ai-lg ai-orcid"></i>
+      </a>
+      {% endif %}
+      {% if post.publons %}
+      <a href="https://publons.com/a/{{ post.publons }}/">
+	<i class="ai ai-fw ai-lg ai-publons"></i>
+      </a>
+      {% endif %}
+      {% if post.website %}
+      <a href="{{ post.website }}">
+	<i class="fa fa-fw fa-lg fa-external-link"></i>
+      </a>
+      {% endif %}
+      </p>
+    </div>
+    
+  </article>
+</div>
