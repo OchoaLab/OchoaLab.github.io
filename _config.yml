@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Alejandro Ochoa"
-  avatar           : "profile.jpg" # "ochoalab-logo-forCircleFrame.png"
+  avatar           : "ochoa-alejandro.jpg" # "ochoalab-logo-forCircleFrame.png"
   bio              : "Assistant Professor<br/><a href='https://biostat.duke.edu/'>Biostatistics and Bioinformatics</a><br/><br/>Research in statistical genetics and computational biology"
   location         :
   employer         : "Duke University"
@@ -182,6 +182,9 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
+  people:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -234,6 +237,15 @@ defaults:
   - scope:
       path: ""
       type: software
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _people
+  - scope:
+      path: ""
+      type: people
     values:
       layout: single
       author_profile: true
