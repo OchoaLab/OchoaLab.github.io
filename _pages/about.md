@@ -11,7 +11,7 @@ redirect_from:
 The Ochoa Lab is part of the [Center for Statistical Genetics and Genomics](http://statgen.duke.edu) at [Duke University](https://duke.edu).
 We study evolution and disease under **arbitrary population structure**.
 Classical results often assume no population structure or a few discrete and independent subpopulations, which real data do not satisfy.
-We aim to generalize results for:
+We aim to improve:
 * Measures of genetic differentiation and population structure
 * Control of population structure in genome-wide association studies
 * Estimation of heritability
