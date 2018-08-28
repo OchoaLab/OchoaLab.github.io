@@ -5,15 +5,15 @@
 
     <div class="people__avatar" style="clear:both">
       {% if post.avatar %}
-      <img src="{{ post.avatar | prepend: "/images/" | prepend: base_path }}" class="people__avatar" alt="{{ post.name }}">
+      <img src="{{ post.avatar | prepend: "/images/" | prepend: base_path }}" class="people__avatar" alt="{{ post.name }}" />
       {% else %}
-      <img src="{{ "profile.png" | prepend: "/images/" | prepend: base_path }}" class="people__avatar" alt="{{ post.name }}">
+      <img src="{{ "profile.png" | prepend: "/images/" | prepend: base_path }}" class="people__avatar" alt="{{ post.name }}" />
       {% endif %}
       
       <!-- Name is mandatory! -->
-      <h2 class="archive__item-title">{{ post.name }}</h2>
+      <h2 class="people__avatar">{{ post.name }}</h2>
       {% if post.role %}
-      <h3><i>{{ post.role }}</i></h3>
+      <h3 class="people__avatar"><i>{{ post.role }}</i></h3>
       {% endif %}
       {% if post.description %}
       <p>{{ post.description }}</p>
