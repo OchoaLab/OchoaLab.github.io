@@ -16,4 +16,4 @@ a collaborative environment located at the Medical Science Research Building (MS
 Work in the lab includes development of new theoretical models in statistical population genetics, analysis on real and simulated genetic data, and writing software packages for the scientific community.
 We are particularly looking for individuals with strong math/stats and programming skills, and interest in understanding the connection between genetics and disease in humans.
 
-For more information, please email your CV and a 1-page statement of research interests to [Prof. Ochoa](mailto:alejandro.ochoa@duke.edu).
+For more information, please email your CV and a one-page statement of research interests to [Prof. Ochoa](mailto:alejandro.ochoa@duke.edu).
