@@ -13,11 +13,11 @@
       {% endif %}
       </b>
       {% endif %}
-      {% if post.cran %}
-      Also on <a href="{{ post.cran }}">CRAN</a><br />
-      {% endif %}
       {% if post.date %}
-      {{ post.date | default: "1900-01-01" | date: "%Y-%m-%d"  }}
+      {{ post.date | default: "1900-01-01" | date: "%Y-%m-%d"  }}.
+      {% endif %}
+      {% if post.cran %}
+      Also on <a href="{{ post.cran }}">CRAN</a>.
       {% endif %}
     </p>
     
