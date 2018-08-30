@@ -2,7 +2,9 @@
   People profile
   ========================================================================== */
 
-// based on "author__avatar", but here there is no change in behavior for small screens (same as large screen default)
+.people__item {
+    min-height: 200px; 
+}
 
 .people__avatar {
   display: block;
@@ -14,15 +16,32 @@
   img {
     max-width: 175px;
     border-radius: 50%;
-    float: left;
     padding: 5px;
     border: 1px solid $border-color;
-  }
-  
-  h2, h3, h4, h5, h6 {
-      clear: none;
-      margin: 0;
-      padding: 0;
+    // small screen behavior
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    @include breakpoint($large) {
+	float: left; // only float left on big screens
+    }
   }
 }
 
+.people__text {
+    // small screen behavior
+    clear: both;
+    text-align: center;
+    // large screen behavior
+    @include breakpoint($large) {
+	clear: none;
+	text-align: left;
+	padding-left: 200px; // 175px;
+    }
+    
+    h2, h3, h4, h5, h6 {
+	clear: none;
+	margin: 0;
+	padding: 0;
+    }
+}

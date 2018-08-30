@@ -1,19 +1,21 @@
 {% include base_path %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="people__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-    <div class="people__avatar" style="clear:both">
+    <div class="people__avatar">
       {% if post.avatar %}
       <img src="{{ post.avatar | prepend: "/images/" | prepend: base_path }}" class="people__avatar" alt="{{ post.name }}" />
       {% else %}
       <img src="{{ "profile.png" | prepend: "/images/" | prepend: base_path }}" class="people__avatar" alt="{{ post.name }}" />
       {% endif %}
+    </div>
       
+    <div class="people__text">
       <!-- Name is mandatory! -->
-      <h2 class="people__avatar">{{ post.name }}</h2>
+      <h2 class="people__text">{{ post.name }}</h2>
       {% if post.role %}
-      <h3 class="people__avatar"><i>{{ post.role }}</i></h3>
+      <h3 class="people__text"><i>{{ post.role }}</i></h3>
       {% endif %}
       {% if post.description %}
       <p>{{ post.description }}</p>
