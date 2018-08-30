@@ -1,0 +1,28 @@
+/*
+  People profile
+  ========================================================================== */
+
+// based on "author__avatar", but here there is no change in behavior for small screens (same as large screen default)
+
+.people__avatar {
+  display: block;
+  vertical-align: top;
+  width: auto;
+  height: auto;
+  clear: both;
+
+  img {
+    max-width: 175px;
+    border-radius: 50%;
+    float: left;
+    padding: 5px;
+    border: 1px solid $border-color;
+  }
+  
+  h2, h3, h4, h5, h6 {
+      clear: none;
+      margin: 0;
+      padding: 0;
+  }
+}
+

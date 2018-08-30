@@ -47,6 +47,9 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
+$duke-blue                  : mix(#fff, #001A57, 20%); // https://en.wikipedia.org/wiki/Duke_blue, but made lighter
+$duke-blue-lighter          : mix(#fff, #001A57, 80%); // https://en.wikipedia.org/wiki/Duke_blue, but made lighter
+
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -57,14 +60,15 @@ $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : $darker-gray;
+$border-color               : $duke-blue-lighter;
 
-$primary-color              : #7a8288;
+$primary-color              : $duke-blue;
+$headline-color             : $duke-blue;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : $duke-blue; 
 
 /* brands */
 $behance-color              : #1769FF;

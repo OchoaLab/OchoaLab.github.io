@@ -10,7 +10,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  padding-bottom: 9em;
+  padding-bottom: 2em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
@@ -26,6 +26,11 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
+  color: $headline-color;
+}
+
+a, b {
+  color: $headline-color;
 }
 
 h1 {
