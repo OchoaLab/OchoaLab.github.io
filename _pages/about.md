@@ -25,4 +25,6 @@ Accurate modeling of population structure is necessary for studies involving the
 We are a multidisciplinary group that uses statistical models and develops software to study biology.
 Members have a background in mathematics, molecular biology, computer science, and statistics.
 Our approaches are scalable to large datasets, balancing accuracy with efficiency.
+We have expertise in the False Discovery Rate (FDR) and Linear Mixed-Effects models (LMEs/LMMs).
 Other topics of interest include modeling of protein sequences and longitudinal data.
+We are interested in collaborative projects!
