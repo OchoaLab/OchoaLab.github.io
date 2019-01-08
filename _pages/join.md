@@ -5,10 +5,12 @@ excerpt: "Join our research group!"
 author_profile: true
 ---
 
-The Ochoa lab is recruiting graduate students and postdocs.
+The Ochoa lab is recruiting postdocs and students at every level.
+
 We recruit master's and doctoral students from a number of programs, including
 [Biostatistics and Bioinformatics](https://biostat.duke.edu/) and
 [Computational Biology and Bioinformatics](https://genome.duke.edu/education/CBB).
+Undergrads interested in research are also welcome!
 We are part Duke's
 [StatGen Center](http://statgen.duke.edu/),
 a collaborative environment located at the Medical Science Research Building (MSRB) III.
@@ -16,4 +18,6 @@ a collaborative environment located at the Medical Science Research Building (MS
 Work in the lab includes development of new theoretical models in statistical population genetics, analysis on real and simulated genetic data, and writing software packages for the scientific community.
 We are particularly looking for individuals with strong math/stats and programming skills, and interest in understanding the connection between genetics and disease in humans.
 
-For more information, please email your CV and a one-page statement of research interests to [Prof. Ochoa](mailto:alejandro.ochoa@duke.edu).
+- **Postdocs:** Apply via [the job posting on brassring.com](https://jobs.brassring.com/1033/ASP/TG/cim_jobdetail.asp?partnerid=25017&siteid=5407&Areq=108314BR).
+- **Students:** Contact me [by email](mailto:alejandro.ochoa@duke.edu).
+To better serve you, I'd prefer that you include your CV/résumé and an brief (one-paragraph) statement describing your research interests.
