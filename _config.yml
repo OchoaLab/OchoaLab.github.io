@@ -88,7 +88,8 @@ author:
   employer         : "Duke University"
   googlescholar    : "https://scholar.google.com/citations?user=pHc8mjoAAAAJ&hl=en"
   email            : "alejandro.ochoa@duke.edu"
-  researchgate     : 
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Alejandro+Ochoa"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
