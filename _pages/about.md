@@ -12,7 +12,7 @@ The Ochoa Lab is part of the [Center for Statistical Genetics and Genomics](http
 We study evolution and disease under **arbitrary relatedness**.
 Classical results often assume simplistic relatedness scenarios which real data do not satisfy.
 We aim to improve:
-* Measures of genetic differentiation and population structure
+* Measures of genetic differentiation and relatedness
 * Genetic association statistics 
 * Estimation of heritability
 * Detection of genetic loci under selection
