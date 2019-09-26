@@ -1,6 +1,6 @@
 ---
 name: Yiqi Yao
-avatar: yao-yiqi.jpg
+avatar: 300-yao-yiqi.jpg
 role: Master's Student
 description: 
 website: 
@@ -11,5 +11,5 @@ github: YYQ111
 linkedin: yiqi-yao
 orcid: 
 publons: 
-cv: yao-yiqi.docx
+cv: 300-yao-yiqi.docx
 ---

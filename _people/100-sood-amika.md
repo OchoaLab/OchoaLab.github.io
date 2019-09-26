@@ -1,6 +1,6 @@
 ---
 name: Amika Sood
-avatar: sood-amika.jpg
+avatar: 100-sood-amika.jpg
 role: Postdoctoral Associate
 description: 
 website: 
@@ -11,5 +11,5 @@ github:
 linkedin: amika-sood-39a90668
 orcid: 
 publons: 
-cv: sood-amika.pdf
+cv: 100-sood-amika.pdf
 ---
