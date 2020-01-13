@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /news/
 title: "News"
 excerpt: "News"
 author_profile: true
-redirect_from: 
-  - /news/
-  - /news.html
 ---
 
 2020-01-10<br />
