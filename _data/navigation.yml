@@ -15,6 +15,9 @@ main:
   - title: "Join"
     url: /join/
 
+  - title: "News"
+    url: /news/
+
 #  - title: "Teaching"
 #    url: /teaching/    
 #    
