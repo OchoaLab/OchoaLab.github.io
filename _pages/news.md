@@ -5,6 +5,10 @@ excerpt: "News"
 author_profile: true
 ---
 
+2020-01-13<br />
+Prof. **Alex Ochoa** was selected to be a Whitehead Scholar!
+This award is supported by the Whitehead Charitable Foundation, and is granted to Duke junior faculty with exceptional potential for research and research training in the biomedical sciences.
+
 2020-01-10<br />
 Master's student **Zhuoran Hou** joins the lab!
 
