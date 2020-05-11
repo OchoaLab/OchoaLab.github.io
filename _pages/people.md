@@ -11,7 +11,7 @@ author_profile: false
   {% include people-single.html %}
 {% endfor %}
 
-## Alumni
+# Alumni
 
 {% for post in site.alumni %}
   {% include people-single.html %}
