@@ -10,3 +10,10 @@ author_profile: false
 {% for post in site.people %}
   {% include people-single.html %}
 {% endfor %}
+
+## Alumni
+
+{% for post in site.alumni %}
+  {% include people-single.html %}
+{% endfor %}
+
