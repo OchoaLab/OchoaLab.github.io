@@ -17,6 +17,7 @@ Undergrads interested in research are also welcome!
 We are part Duke's
 [StatGen Center](http://statgen.duke.edu/),
 a collaborative environment located at the Medical Science Research Building (MSRB) III.
+We are also affiliated with the [Duke Institute for Brain Sciences (DIBS)](https://dibs.duke.edu/).
 
 Work in the lab includes development of new theoretical models in statistical population genetics, analysis on real and simulated genetic data, and writing software packages for the scientific community.
 We are particularly looking for individuals with strong math/stats and programming skills, and interest in understanding the connection between genetics and disease in humans.
