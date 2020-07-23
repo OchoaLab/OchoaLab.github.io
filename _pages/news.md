@@ -5,6 +5,9 @@ excerpt: "News"
 author_profile: true
 ---
 
+2020-07-23<br />
+The lab officially joins the University Program in Genetics and Genomics (UPGG) at Duke!
+
 2020-05-09<br />
 **Yiqi Yao** graduated from the Biostatistics and Bioinformatics Master's program.
 At the virtual department ceremony, Yiqi was awarded the [Outstanding Master's Project in Data Science](https://biostat.duke.edu/news/class-2020)!

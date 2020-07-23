@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-The Ochoa Lab is part of the [Center for Statistical Genetics and Genomics](http://statgen.duke.edu) at [Duke University](https://duke.edu).
+The Ochoa Lab is based in the department of [Biostatistics and Bioinformatics (B&B)](https://biostat.duke.edu/) at [Duke University](https://duke.edu), is part of the [Center for Statistical Genetics and Genomics](http://statgen.duke.edu), and is affiliated with the [CBB](https://genome.duke.edu/education/CBB) and [UPGG](https://upg.duke.edu/) PhD programs.
+
 We study evolution and disease under **arbitrary relatedness**.
 Classical results often assume simplistic relatedness scenarios which real data do not satisfy.
 We aim to improve:

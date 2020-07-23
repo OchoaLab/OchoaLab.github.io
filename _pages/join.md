@@ -7,9 +7,12 @@ author_profile: true
 
 The Ochoa lab is recruiting postdocs and students at every level.
 
-We recruit master's and doctoral students from a number of programs at Duke, including
-[Biostatistics and Bioinformatics](https://biostat.duke.edu/) and
-[Computational Biology and Bioinformatics](https://genome.duke.edu/education/CBB).
+We recruit Master's and PhD students from a number of programs at Duke, including:
+
+- [Biostatistics and Bioinformatics (B&B)](https://biostat.duke.edu/)
+- [Computational Biology and Bioinformatics (CBB)](https://genome.duke.edu/education/CBB)
+- [University Program in Genetics and Genomics (UPGG)](https://upg.duke.edu/)
+
 Undergrads interested in research are also welcome!
 We are part Duke's
 [StatGen Center](http://statgen.duke.edu/),
