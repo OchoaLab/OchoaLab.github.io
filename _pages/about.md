@@ -10,8 +10,7 @@ redirect_from:
 
 The Ochoa Lab is based in the department of [Biostatistics and Bioinformatics (B&B)](https://biostat.duke.edu/) at [Duke University](https://duke.edu), is part of the [Center for Statistical Genetics and Genomics](http://statgen.duke.edu), and is affiliated with [DIBS](https://dibs.duke.edu/) and the [CBB](https://genome.duke.edu/education/CBB) and [UPGG](https://upg.duke.edu/) PhD programs.
 
-We study evolution and disease under **arbitrary relatedness**.
-Classical results often assume simplistic relatedness scenarios which real data do not satisfy.
+We study evolution and disease under **arbitrary relatedness**, with the underlying motivation of achieving greater equity in genetic studies.
 We aim to improve:
 * Measures of genetic differentiation and relatedness
 * Genetic association statistics 
@@ -19,9 +18,9 @@ We aim to improve:
 * Detection of genetic loci under selection
 * Inference of genetic admixture
 
-Important targets of study include recently-admixed individuals, such as Hispanics and African-Americans, who derive their ancestry from Sub-Saharan Africa, the Americas, Europe, and other places.
+We are particularly interested in modeling admixed individuals, such as Hispanics and African-Americans, who derive their ancestry from Sub-Saharan Africa, the Americas, Europe, and other places.
 Recently-admixed individuals vary dramatically in their ancestry composition, even among relatives, so their genetic correlations can be remarkably complex.
-Accurate modeling of relatedness is necessary for studies involving these individuals.
+Accurate modeling of relatedness is necessary for multi-ethnic studies.
 
 We are a multidisciplinary group that uses statistical models and develops software to study biology.
 Members have a background in mathematics, molecular biology, computer science, and statistics.
