@@ -5,6 +5,16 @@ excerpt: "News"
 author_profile: true
 ---
 
+2021-07-21<br />
+PhD student **Tiffany Tu** joined the lab!
+
+2021-05-08<br />
+**Zhuoran Hou** graduated from the Biostatistics and Bioinformatics Master's program.
+Congratulations!
+
+2020-11-20<br />
+Master's student **Jiajie Shen** joins the lab!
+
 2020-07-23<br />
 The lab officially joins the University Program in Genetics and Genomics (UPGG) at Duke!
 
