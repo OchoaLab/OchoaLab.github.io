@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![Ochoa lab 2022](2022-04-29_125820_edt_group.jpg)
+
 The Ochoa Lab is based in the department of [Biostatistics and Bioinformatics (B&B)](https://biostat.duke.edu/) at [Duke University](https://duke.edu), is part of the [Center for Statistical Genetics and Genomics](http://statgen.duke.edu), and is affiliated with [DIBS](https://dibs.duke.edu/) and the [CBB](https://genome.duke.edu/education/CBB) and [UPGG](https://upg.duke.edu/) PhD programs.
 
 We study evolution and disease under **arbitrary relatedness**, with the underlying motivation of achieving greater equity in genetic studies.
