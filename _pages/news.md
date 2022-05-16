@@ -5,6 +5,15 @@ excerpt: "News"
 author_profile: true
 ---
 
+2022-05-07<br />
+**Jiajie Shen** graduated from the Biostatistics and Bioinformatics Master's program.
+Congratulations!
+
+2022-04-29<br />
+**Amika Sood** has completed her postdoctoral position in the lab.
+She is now a Senior Research Associate at the Complex Carbohydrate Research Center (CCRC), University of Georgia.
+Congratulations!
+
 2021-07-21<br />
 PhD student **Tiffany Tu** joined the lab!
 
