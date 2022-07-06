@@ -5,6 +5,9 @@ excerpt: "News"
 author_profile: true
 ---
 
+2022-07-05<br />
+PhD student **RP Pornmongkolsuk** joined the lab!
+
 2022-05-07<br />
 **Jiajie Shen** graduated from the Biostatistics and Bioinformatics Master's program.
 Congratulations!
