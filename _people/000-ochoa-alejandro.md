@@ -1,5 +1,5 @@
 ---
-name: Alejandro "Alex" Ochoa
+name: Alejandro &quot;Alex&quot; Ochoa
 avatar: 000-ochoa-alejandro.jpg
 role: Principal Investigator
 description: Statistical population genetics, psychiatric response modeling, protein sequence models, malaria.

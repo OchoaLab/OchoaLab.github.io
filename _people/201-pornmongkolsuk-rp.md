@@ -1,5 +1,5 @@
 ---
-name: Ratchanon "RP" Pornmongkolsuk
+name: Ratchanon &quot;RP&quot; Pornmongkolsuk
 avatar: 201-pornmongkolsuk-rp.jpg
 role: PhD Student
 description: 
