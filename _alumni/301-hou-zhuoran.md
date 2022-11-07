@@ -9,7 +9,7 @@ twitter:
 googlescholar: 
 github: ZhuoranHou
 linkedin: zhuoran-hou
-orcid: 
+orcid: 0000-0003-0195-9056
 publons: 
 cv:
 ---

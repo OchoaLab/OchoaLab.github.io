@@ -9,7 +9,7 @@ twitter:
 googlescholar: 
 github: 
 linkedin: amika-sood-39a90668
-orcid: 
+orcid: 0000-0002-0767-7917
 publons: 
 cv: 100-sood-amika.pdf
 ---
