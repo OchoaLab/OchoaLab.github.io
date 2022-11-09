@@ -5,7 +5,9 @@ excerpt: "Join our research group!"
 author_profile: true
 ---
 
-The Ochoa lab is recruiting postdocs and students at every level.
+**The Ochoa lab is not currently recruiting.  Below info provided just for past/future reference.**
+
+<!-- The Ochoa lab is recruiting postdocs and students at every level. -->
 
 We recruit Master's and PhD students from a number of programs at Duke, including:
 
