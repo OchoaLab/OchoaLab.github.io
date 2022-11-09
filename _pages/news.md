@@ -5,6 +5,10 @@ excerpt: "News"
 author_profile: true
 ---
 
+2022-10-01<br />
+Prof. **Alex Ochoa** was [honored with an entry](https://www.lathisms.org/calendar-2022s/alejandro-ochoa) in this year's [Lathisms calendar](https://www.lathisms.org/calendars/calendar-2022)!
+Lathisms showcases the contributions of Latinx and Hispanic mathematicians during Hispanic Heritage Month.
+
 2022-07-05<br />
 PhD student **RP Pornmongkolsuk** joined the lab!
 
