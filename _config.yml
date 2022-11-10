@@ -57,6 +57,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter DrAlexOchoa
+mastodon:
+  username               : &mastodon DrAlexOchoa@genomic.social
 facebook:
   username               :
   app_id                 :
@@ -106,6 +108,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "DrAlexOchoa"
+  mastodon         : "DrAlexOchoa@genomic.social"
   vine             :
   weibo            :
   xing             :

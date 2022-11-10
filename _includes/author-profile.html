@@ -37,6 +37,10 @@
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
+      {% if author.mastodon %}
+	{% assign mastodon_parts = author.mastodon | split: "@" %}
+        <li><a href="https://{{ mastodon_parts[1] }}/web/@{{ mastodon_parts[0] }}"><i class="fab fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
+      {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
