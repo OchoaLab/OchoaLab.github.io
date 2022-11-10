@@ -39,7 +39,7 @@
       {% endif %}
       {% if author.mastodon %}
 	{% assign mastodon_parts = author.mastodon | split: "@" %}
-        <li><a href="https://{{ mastodon_parts[1] }}/web/@{{ mastodon_parts[0] }}"><i class="fab fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
+        <li><a rel="me" href="https://{{ mastodon_parts[1] }}/@{{ mastodon_parts[0] }}"><i class="fab fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
       {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
