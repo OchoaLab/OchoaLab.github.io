@@ -33,8 +33,8 @@
 	<i class="fas fa-fw fa-lg fa-envelope"></i>
       </a>
       {% endif %}
-      {% if author.mastodon %}
-	{% assign mastodon_parts = author.mastodon | split: "@" %}
+      {% if post.mastodon %}
+	{% assign mastodon_parts = post.mastodon | split: "@" %}
       <a href="https://{{ mastodon_parts[1] }}/@{{ mastodon_parts[0] }}">
 	<i class="fab fa-fw fa-lg fa-mastodon"></i>
       </a>
@@ -61,7 +61,7 @@
       {% endif %}
       {% if post.orcid %}
       <a href="http://orcid.org/{{ post.orcid }}">
-	<i class="fab fa-fw fa-lg fa-orcid"></i>
+	<i class="ai ai-fw ai-lg ai-orcid"></i>
       </a>
       {% endif %}
       {% if post.publons %}
@@ -71,7 +71,7 @@
       {% endif %}
       {% if post.website %}
       <a href="{{ post.website }}">
-	<i class="fa-solid fa-fw fa-lg fa-up-right-from-square"></i>
+	<i class="fas fa-fw fa-lg fa-up-right-from-square"></i>
       </a>
       {% endif %}
       </p>
