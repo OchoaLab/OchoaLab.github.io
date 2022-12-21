@@ -30,32 +30,38 @@
       {% endif %}
       {% if post.email %}
       <a href="mailto:{{ post.email }}">
-	<i class="fa fa-fw fa-lg fa-envelope"></i>
+	<i class="fas fa-fw fa-lg fa-envelope"></i>
+      </a>
+      {% endif %}
+      {% if author.mastodon %}
+	{% assign mastodon_parts = author.mastodon | split: "@" %}
+      <a href="https://{{ mastodon_parts[1] }}/@{{ mastodon_parts[0] }}">
+	<i class="fab fa-fw fa-lg fa-mastodon"></i>
       </a>
       {% endif %}
       {% if post.twitter %}
       <a href="https://twitter.com/{{ post.twitter }}">
-	<i class="fa fa-fw fa-lg fa-twitter"></i>
+	<i class="fab fa-fw fa-lg fa-twitter"></i>
       </a>
       {% endif %}
       {% if post.linkedin %}
       <a href="https://www.linkedin.com/in/{{ post.linkedin }}">
-	<i class="fa fa-fw fa-lg fa-linkedin"></i>
+	<i class="fab fa-fw fa-lg fa-linkedin"></i>
       </a>
       {% endif %}
       {% if post.github %}
       <a href="https://github.com/{{ post.github }}">
-	<i class="fa fa-fw fa-lg fa-github"></i>
+	<i class="fab fa-fw fa-lg fa-github"></i>
       </a>
       {% endif %}
       {% if post.googlescholar %}
       <a href="https://scholar.google.com/citations?user={{ post.googlescholar }}&hl=en">
-	<i class="ai ai-fw ai-lg ai-google-scholar"></i>
+	<i class="fas fa-fw fa-lg fa-graduation-cap"></i>
       </a>
       {% endif %}
       {% if post.orcid %}
       <a href="http://orcid.org/{{ post.orcid }}">
-	<i class="ai ai-fw ai-lg ai-orcid"></i>
+	<i class="fab fa-fw fa-lg fa-orcid"></i>
       </a>
       {% endif %}
       {% if post.publons %}
@@ -65,7 +71,7 @@
       {% endif %}
       {% if post.website %}
       <a href="{{ post.website }}">
-	<i class="fa fa-fw fa-lg fa-external-link"></i>
+	<i class="fa-solid fa-fw fa-lg fa-up-right-from-square"></i>
       </a>
       {% endif %}
       </p>

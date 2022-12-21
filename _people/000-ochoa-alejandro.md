@@ -5,6 +5,7 @@ role: Principal Investigator
 description: Statistical population genetics, psychiatric response modeling, protein sequence models, malaria.
 website: http://viiia.org/
 email: alejandro.ochoa@duke.edu
+mastodon: DrAlexOchoa@genomic.social
 twitter: DrAlexOchoa
 googlescholar: pHc8mjoAAAAJ
 github: alexviiia
