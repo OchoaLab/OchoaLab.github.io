@@ -185,7 +185,13 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  software:
+  software_package_major:
+    output: true
+    permalink: /:collection/:path/
+  software_package_minor:
+    output: true
+    permalink: /:collection/:path/
+  software_paper:
     output: true
     permalink: /:collection/:path/
   people:
