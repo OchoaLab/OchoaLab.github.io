@@ -7,20 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-# Major packages
+## Major packages
 
-{% for post in site.software.package_major reversed %}
+{% for post in site.software_package_major reversed %}
   {% include software-single.html %}
 {% endfor %}
 
-# Minor packages
+## Minor packages
 
-{% for post in site.software.package_minor reversed %}
+{% for post in site.software_package_minor reversed %}
   {% include software-single.html %}
 {% endfor %}
 
-# Paper repositories
+## Paper repositories
 
-{% for post in site.software.paper reversed %}
+{% for post in site.software_paper reversed %}
   {% include software-single.html %}
 {% endfor %}
