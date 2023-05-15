@@ -5,6 +5,9 @@ excerpt: "News"
 author_profile: true
 ---
 
+2023-05-15<br />
+PhD student **RP Pornmongkolsuk** passed his UPGG preliminary exam!
+
 2022-12-09<br />
 PhD student **Tiffany Tu** passed her CBB preliminary exam!
 
