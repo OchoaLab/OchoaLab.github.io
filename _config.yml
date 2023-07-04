@@ -55,8 +55,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter DrAlexOchoa
 mastodon:
   username               : &mastodon DrAlexOchoa@genomic.social
 facebook:
@@ -109,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "DrAlexOchoa"
+  twitter          : 
   mastodon         : "DrAlexOchoa@genomic.social"
   vine             :
   weibo            :
