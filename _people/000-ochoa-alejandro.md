@@ -2,11 +2,10 @@
 name: Alejandro &quot;Alex&quot; Ochoa
 avatar: 000-ochoa-alejandro.jpg
 role: Principal Investigator
-description: Statistical population genetics, psychiatric response modeling, protein sequence models, malaria.
+description: Statistical population genetics, kidney disease, prostate cancer, protein sequence models, malaria.
 website: http://viiia.org/
 email: alejandro.ochoa@duke.edu
 mastodon: DrAlexOchoa@genomic.social
-twitter: DrAlexOchoa
 googlescholar: pHc8mjoAAAAJ
 github: alexviiia
 linkedin: alejandro-ochoa-141a98103
