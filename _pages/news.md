@@ -5,6 +5,12 @@ excerpt: "News"
 author_profile: true
 ---
 
+2022-08-29<br />
+PhD student **Zhuoran Hou** joined the lab!
+
+2023-08-25<br />
+The lab moved buildings, from the Medical Science Research Building 3 (MSRB3) to Fitzpatrick Center for Interdisciplinary Engineering, Medicine and Applied Sciences (CIEMAS).
+
 2023-05-15<br />
 PhD student **RP Pornmongkolsuk** passed his UPGG preliminary exam!
 

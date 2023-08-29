@@ -1,7 +1,7 @@
 ---
 name: Zhuoran Hou
-avatar: 301-hou-zhuoran.jpg
-role: Master's Student
+avatar: 202-hou-zhuoran.jpg
+role: PhD Student
 description: 
 website: 
 email: zhuoran.hou@duke.edu

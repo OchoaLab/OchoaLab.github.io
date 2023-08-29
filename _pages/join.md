@@ -18,7 +18,7 @@ We recruit Master's and PhD students from a number of programs at Duke, includin
 Undergrads interested in research are also welcome!
 We are part Duke's
 [StatGen Center](http://statgen.duke.edu/),
-a collaborative environment located at the Medical Science Research Building (MSRB) III.
+a collaborative environment located at the Fitzpatrick Center for Interdisciplinary Engineering, Medicine and Applied Sciences (CIEMAS).
 We are also affiliated with the [Duke Institute for Brain Sciences (DIBS)](https://dibs.duke.edu/).
 
 Work in the lab includes development of new theoretical models in statistical population genetics, analysis on real and simulated genetic data, and writing software packages for the scientific community.
