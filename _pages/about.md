@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![Ochoa lab 2022](2022-04-29_125820_edt_group.jpg)
+![Ochoa lab 2023](2023-10-31_114536_edt_group.jpg)
+Ochoa lab in October, 2023.
 
 The Ochoa Lab is based in the department of [Biostatistics and Bioinformatics (B&B)](https://biostat.duke.edu/) at [Duke University](https://duke.edu), is part of the [Center for Statistical Genetics and Genomics](http://statgen.duke.edu), and is affiliated with [DIBS](https://dibs.duke.edu/) and the [CBB](https://genome.duke.edu/education/CBB) and [UPGG](https://upg.duke.edu/) PhD programs.
 
@@ -30,3 +31,6 @@ Our approaches are scalable to large datasets, balancing accuracy with efficienc
 We have expertise in the False Discovery Rate (FDR) and Linear Mixed-Effects models (LMEs/LMMs).
 Other topics of interest include modeling of protein sequences and longitudinal data.
 We are interested in collaborative projects!
+
+![Ochoa lab 2022](2022-04-29_125820_edt_group.jpg)
+Ochoa lab in April, 2022.
