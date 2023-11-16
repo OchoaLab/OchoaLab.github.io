@@ -1,7 +1,7 @@
 ---
 name: Zhuoran Hou
 avatar: 202-hou-zhuoran.jpg
-role: PhD Student
+role: PhD Student, Biostatistics and Bioinformatics
 description: 
 website: 
 email: zhuoran.hou@duke.edu

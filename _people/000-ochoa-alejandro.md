@@ -1,7 +1,7 @@
 ---
 name: Alejandro &quot;Alex&quot; Ochoa
 avatar: 000-ochoa-alejandro.jpg
-role: Principal Investigator
+role: Principal Investigator, Biostatistics and Bioinformatics
 description: Statistical population genetics, kidney disease, prostate cancer, protein sequence models, malaria.
 website: http://viiia.org/
 email: alejandro.ochoa@duke.edu

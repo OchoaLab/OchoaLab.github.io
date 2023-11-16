@@ -1,7 +1,7 @@
 ---
 name: Amika Sood
 avatar: 100-sood-amika.jpg
-role: Postdoctoral Associate
+role: Postdoctoral Associate, Biostatistics and Bioinformatics
 description: 
 website: 
 email: amikasood@gmail.com

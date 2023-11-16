@@ -1,7 +1,7 @@
 ---
 name: Tiffany Tu
 avatar: 200-tu-tiffany.jpg
-role: PhD Student
+role: PhD Student, Computational Biology and Bioinformatics (CBB)
 description: Statistical genetics, molecular evolution, hereditary diseases
 email: tiffany.tu@duke.edu
 github: tiffttu

@@ -1,7 +1,7 @@
 ---
 name: Ratchanon &quot;RP&quot; Pornmongkolsuk
 avatar: 201-pornmongkolsuk-rp.jpg
-role: PhD Student
+role: PhD Student, University Program in Genetics and Genomics (UPGG)
 description: 
 website: 
 email: ratchanon.pornmongkolsuk@duke.edu

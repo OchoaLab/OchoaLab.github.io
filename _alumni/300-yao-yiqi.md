@@ -1,7 +1,7 @@
 ---
 name: Yiqi Yao
 avatar: 300-yao-yiqi.jpg
-role: Master's Student
+role: Master's Student, Biostatistics and Bioinformatics
 description: 
 website: 
 email: yiqi.yao@duke.edu

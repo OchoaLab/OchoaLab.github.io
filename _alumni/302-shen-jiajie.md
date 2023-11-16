@@ -1,7 +1,7 @@
 ---
 name: Jiajie Shen
 avatar: 302-shen-jiajie.jpg
-role: Master's Student
+role: Master's Student, Biostatistics and Bioinformatics
 description: 
 website: 
 email: jiajie.shen@duke.edu
