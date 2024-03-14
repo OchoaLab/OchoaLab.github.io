@@ -5,6 +5,9 @@ excerpt: "News"
 author_profile: true
 ---
 
+2024-03-14<br />
+PhD student **Zhuoran Hou** passed his Biostats preliminary exam!
+
 2023-09-08<br />
 CS undergraduate **Danielle Mensah** will pursue her research independent study in the lab!
 
