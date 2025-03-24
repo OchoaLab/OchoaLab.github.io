@@ -5,6 +5,9 @@ excerpt: "News"
 author_profile: true
 ---
 
+2025-03-20<br />
+Dr. **Tiffany Tu**, PhD, successfully defended her dissertation!
+
 2024-03-14<br />
 PhD student **Zhuoran Hou** passed his Biostats preliminary exam!
 
