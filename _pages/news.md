@@ -5,6 +5,9 @@ excerpt: "News"
 author_profile: true
 ---
 
+2025-08-29<br />
+Biostats Master's student **Isabella Xu** joins the lab!
+
 2025-07-01<br />
 PhD students **Gabriel Kennedy** and **Bide Chen** from Amy Goldberg's lab are now co-members of the Ochoa lab!
 
