@@ -5,6 +5,9 @@ excerpt: "News"
 author_profile: true
 ---
 
+2026-01-12<br />
+Dr. **Zhuoran Hou**, PhD, successfully defended his dissertation!
+
 2025-08-29<br />
 Biostats Master's student **Isabella Xu** joins the lab!
 
