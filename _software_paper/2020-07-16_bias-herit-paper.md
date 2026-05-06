@@ -1,6 +1,6 @@
 ---
 date_first: 2020-07-16
-date_last: 2025-05-13
+date_last: 2026-03-20
 desc: Characterization of heritability estimation biases, from biased kinship matrices
   and other causes
 github: https://github.com/OchoaLab/bias-herit-paper
