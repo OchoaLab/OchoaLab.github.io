@@ -5,6 +5,11 @@ excerpt: "News"
 author_profile: true
 ---
 
+2026-05-09<br />
+**Isabella Xu** graduated from the Biostatistics and Bioinformatics Master's program.
+At the department ceremony, Izzi was awarded the Outstanding Master's Project in Mathematical Statistics!
+Congratulations Izzi!
+
 2026-01-12<br />
 Dr. **Zhuoran Hou**, PhD, successfully defended his dissertation!
 
