@@ -5,6 +5,9 @@ excerpt: "News"
 author_profile: true
 ---
 
+2026-05-20<br />
+Dr. **Bide Chen**, PhD, successfully defended his dissertation!
+
 2026-05-09<br />
 **Isabella Xu** graduated from the Biostatistics and Bioinformatics Master's program.
 At the department ceremony, Izzi was awarded the Outstanding Master's Project in Mathematical Statistics!
