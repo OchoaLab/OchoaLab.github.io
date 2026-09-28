@@ -5,6 +5,12 @@ excerpt: "News"
 author_profile: true
 ---
 
+2026-09-28<br />
+Data Science undergraduate **Wentao Tong** from Duke Kunshan joined the lab!
+
+2026-09-18<br />
+Biology and Neuroscience undergraduate **Jessica Perez** joined the lab!
+
 2026-05-20<br />
 Dr. **Bide Chen**, PhD, successfully defended his dissertation!
 
