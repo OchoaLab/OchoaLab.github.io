@@ -7,7 +7,7 @@ website:
 email: bide.chen@duke.edu
 googlescholar: 
 github: 
-linkedin: https://www.linkedin.com/in/bide-chen-310258177/?locale=en_US
+linkedin: bide-chen-310258177
 orcid: 0000-0003-3792-9190
 publons: 
 cv: 
